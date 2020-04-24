@@ -1,2 +1,3 @@
 # Write your solution here
-[`Time.now`][now]
+current_time = Time.now.to_s
+
